@@ -78,15 +78,8 @@ This project serves as the backend for a YouTube-like platform, providing APIs f
 - [Mongoose](https://mongoosejs.com/)
 - Google
 
-## Project History
-
-- First Commit : February 23, 2024
-- First Release : February 28, 2024
-- Updated Release : May updated the project for learning purpose.
 
 ## Contributors
-
-- [Anurag Affection](https://github.com/anuragaffection)
 - You are welcome to contribute here!
 
 ## License
