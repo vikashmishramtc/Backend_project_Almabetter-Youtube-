@@ -6,7 +6,6 @@ This project serves as the backend for a YouTube-like platform, providing APIs f
 
 ## Live
 - It is deployed on Vercel [Live Link](https://youtube-backend-anurag.vercel.app/).
-- https://youtube-backend-anurag.vercel.app/
 
 ## Table of Contents
 
